@@ -2,7 +2,7 @@ import DateTransformed from '@/app/components/DateTransformed';
 import { getPostData } from '../../lib/posts';
 
 export async function generateStaticParams() {
-  return [{ slug: 'error' }]
+  return <h1>ERROR!!</h1>
 }
 
 async function getData(slug: string) {
