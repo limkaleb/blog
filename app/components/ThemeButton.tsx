@@ -17,6 +17,7 @@ export default function ThemeButton() {
 
   return (
     <button
+      className="hover:text-blue-500"
       onClick={() => setTheme(resolvedTheme === 'dark' ? 'light' : 'dark')} 
     >
       {
