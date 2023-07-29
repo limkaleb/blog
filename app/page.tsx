@@ -20,7 +20,7 @@ export default async function IndexPage() {
       </div>
 
       <ul>
-        {data.map((post) => (
+        {data.filter((d) => d.id !== 'error').map((post) => (
           <li key={post.id} className="py-4">
             <article className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
               <div className="text-base font-medium leading-6 text-gray-500">
