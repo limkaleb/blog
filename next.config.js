@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  // basePath: '/blog',
+  basePath: '/blog',
+  assetPrefix: '/blog/',
   // Optional: Add a trailing slash to all paths `/about` -> `/about/`
   trailingSlash: true,
   // Optional: Change the output directory `out` -> `dist`
