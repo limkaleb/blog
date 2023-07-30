@@ -7,7 +7,7 @@ This is key takeaway from the book I just read, **"Cara Mudah Memahami Laporan K
 
 Reading company's financial report is essential before we start to put our money in. One of important metric we can start to check is **Equity**. First we can check for company's **Authorized capital** / modal dasar. You can go to Equity section and start look from the beginning.
 
-![modal-dasar](../modal-dasar.jpg)
+![modal-dasar](../equity-sido.jpg)
 
 This is showing SIDO company issued and paid for 30M shares each of Rp 50, so total of Rp 1.5 T paid by company. 
 Company can also issued IPO or issued new shares to public (right issue) or to certain parties only. Whatever it is, if newly issued shares are sold with higher price, the difference or profit will be going to **Additional paid-in capital** / tambahan modal disetor.
