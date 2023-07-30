@@ -12,7 +12,7 @@ export async function generateStaticParams() {
   if (!posts) return []
 
   return posts.map((post) => ({
-      postId: post.id
+    slug: post.id
   }))
 }
 
