@@ -2,7 +2,7 @@
 const nextConfig = {
   output: 'export',
   basePath: '/blog',
-  assetPrefix: 'limkaleb.github.io/blog/',
+  assetPrefix: 'https://limkaleb.github.io/blog/',
   // Optional: Add a trailing slash to all paths `/about` -> `/about/`
   // trailingSlash: true,
   // Optional: Change the output directory `out` -> `dist`
