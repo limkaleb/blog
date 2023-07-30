@@ -1,9 +1,9 @@
-import Head from "next/head"
 import Navbar from "./components/Navbar"
 import { Providers } from "./components/Providers"
 import './globals.css'
 import type { Metadata } from 'next'
 import { Nunito } from 'next/font/google'
+import Footer from "./components/Footer"
 
 const nunito = Nunito({ subsets: ['latin'], weight: '500' })
 
@@ -28,6 +28,7 @@ export default function RootLayout({
           <main className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
             {children}
           </main>
+          <Footer />
         </Providers>
       </body>
     </html>
