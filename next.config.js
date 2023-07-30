@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // output: 'export',
+  output: 'export',
   basePath: '/blog',
   // Optional: Add a trailing slash to all paths `/about` -> `/about/`
   trailingSlash: true,

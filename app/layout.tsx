@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/public/favicon.svg" sizes="any" />
+        <link rel="icon" href="/assets/favicon.svg" sizes="any" />
       </head>
       <body className={` ${nunito.className} bg-white text-black selection:bg-gray-300 dark:bg-black dark:selection:bg-gray-500 dark:text-gray-100`}>
         <Providers>
