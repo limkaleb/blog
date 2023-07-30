@@ -1,11 +1,19 @@
 import DateTransformed from '@/app/components/DateTransformed';
-import { getPostData } from '../../lib/posts';
+import { getAllPostIds, getPostData } from '../../lib/posts';
+import { notFound } from "next/navigation"
 
 // export const dynamicParams = false;
 // export const dynamic = 'force-static';
 
 export async function generateStaticParams() {
-  return [{ slug: 'error' }]
+
+  const posts = await getAllPostIds() 
+
+  if (!posts) return []
+
+  return posts.map((post) => ({
+      postId: post.id
+  }))
 }
 
 async function getData(slug: string) {
@@ -15,6 +23,8 @@ async function getData(slug: string) {
 
 export default async function SlugPage({ params }: { params: { slug: string } }) {
   const data = await getData(params.slug);
+
+  if (!data) notFound()
 
   return (
     <div className="xl:divide-y xl:divide-gray-200 xl:dark:divide-gray-700">
