@@ -3,7 +3,7 @@ title: 'When to Use Static Generation v.s. Server-side Rendering'
 date: '2020-01-02'
 ---
 
-![I’m a house](/house.jpg)
+![I’m a house](./house.jpg)
 
 This is only a house
 
