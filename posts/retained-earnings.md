@@ -1,5 +1,5 @@
 ---
-title: 'Financial Report - Retained Earnings'
+title: 'Finding Treasure from Retained Earnings'
 date: '2023-07-31'
 ---
 

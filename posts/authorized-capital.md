@@ -1,5 +1,5 @@
 ---
-title: 'Financial Report - Authorized Capital'
+title: 'First Thing is Authorized Capital'
 date: '2023-07-30'
 ---
 

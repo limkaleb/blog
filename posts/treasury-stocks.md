@@ -1,5 +1,5 @@
 ---
-title: 'Treasury Stocks'
+title: 'Good Company Should Have Treasury Stocks'
 date: '2023-08-02'
 ---
 
