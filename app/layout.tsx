@@ -5,7 +5,7 @@ import type { Metadata } from 'next'
 import { Nunito } from 'next/font/google'
 import Footer from "./components/Footer"
 
-const nunito = Nunito({ subsets: ['latin'], weight: '500' })
+const nunito = Nunito({ subsets: ['latin'], weight: '300' })
 
 export const metadata: Metadata = {
   title: 'Blog',

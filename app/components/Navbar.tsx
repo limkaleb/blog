@@ -9,7 +9,7 @@ export default function Navbar() {
           <Link href="/" className="hover:underline">
             <h1 className="text-2xl font-medium">Soli Deo Gloria</h1>
           </Link>
-          <ThemeButton />
+          {/* <ThemeButton /> */}
         </div>
       </div>
     </div>
