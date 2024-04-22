@@ -18,8 +18,8 @@ date: '2024-02-04'
 - [coinstats.app](https://coinstats.app)
 - [delta.app](https://delta.app)
 - [kubera.com](https://kubera.com)
-- [portfolio.nanse.ai](https://portfolio.nanse.ai)
-- [zerio.io](https://zerio.io)
+- [portfolio.nanse.ai](https://portfolio.nansen.ai)
+- [zerio.io](https://zerion.io)
 
 ---
 
