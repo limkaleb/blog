@@ -5,7 +5,7 @@ export default function Footer() {
         <footer>
           <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
             <p className="text-md sm:ml-4 sm:pl-4 sm:py-2 sm:mt-0 mt-4">
-              This blog is primarily for my own personal use.
+              This blog is for my own personal use.
             </p>
             <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
               <a href="https://www.github.com/limkaleb" target="_blank" rel="noopener noreferrer">
