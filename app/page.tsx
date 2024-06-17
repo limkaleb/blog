@@ -14,7 +14,7 @@ export default async function IndexPage() {
   return (
     <div>
       <div className="space-y-2 pt-6 pb-8 md:space-y-5">
-        <h1 className="text-2xl font-extrabold leading-10 tracking-tight text-gray-900 dark:text-gray-200 sm:text-4xl sm:leading-10 md:text-2xl md:leading-none">
+        <h1 className="text-xl font-extrabold leading-10 tracking-tight text-gray-900 dark:text-gray-200 sm:text-2xl sm:leading-10 md:text-xl md:leading-none">
           All Posts
         </h1>
       </div>

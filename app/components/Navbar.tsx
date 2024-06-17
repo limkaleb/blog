@@ -7,9 +7,6 @@ export default function Navbar() {
       <div className="flex justify-between h-16">
         <div className="flex justify-between items-center w-full">
           <div className="flex justify-start gap-2">
-            <Link href="https://limkaleb.github.io" className="hover:underline">
-              <h1 className="text-xl font-medium">Home</h1>
-            </Link>
             <Link href="/" className="hover:underline">
               <h1 className="text-xl font-medium">Blog</h1>
             </Link>
