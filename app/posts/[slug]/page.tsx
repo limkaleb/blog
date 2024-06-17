@@ -32,7 +32,7 @@ export default async function SlugPage({ params }: { params: { slug: string } })
         <div className="space-y-1 text-center">
 
           <div>
-            <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
+            <h1 className="text-2xl font-bold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-3xl md:leading-14">
               {data.title}
             </h1>
           </div>
