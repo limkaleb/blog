@@ -3,8 +3,8 @@ export default function Footer() {
     <div className="mt-8 border-t border-gray-600">
       <div className="relative h-48">
         <footer>
-          <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
-            <p className="text-md sm:ml-4 sm:pl-4 sm:py-2 sm:mt-0 mt-4">
+          <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex items-center sm:flex-row flex-col">
+            <p className="text-md sm:py-2 sm:mt-0 mt-4">
               This blog is for my own personal use.
             </p>
             <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
