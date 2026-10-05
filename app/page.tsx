@@ -27,9 +27,9 @@ export default async function IndexPage() {
                 <DateTransformed dateString={post.date} />
               </div>
 
-              <Link href={`/posts/${post.id}`} prefetch className="space-y-3 xl:col-span-3">
+              <Link href={`/posts/${post.id}`} prefetch className="group space-y-3 xl:col-span-3">
                 <div>
-                  <h3 className="text-xl font-bold leading-8 tracking-tight text-gray-900 dark:text-gray-200">
+                  <h3 className="inline bg-gradient-to-r from-current to-current bg-[length:0%_2px] bg-[position:0_100%] bg-no-repeat pb-0.5 text-xl transition-[background-size] duration-300 ease-out group-hover:bg-[length:100%_2px] font-bold leading-8 tracking-tight text-gray-900 dark:text-gray-200">
                     {post.title}
                   </h3>
                 </div>

@@ -3,12 +3,11 @@ title: 'Return On Equity As the Most Important Metric'
 date: '2023-08-04'
 ---
 
-I think **Return on Equity** is the single most important metric to look for when investing. 
-Company with high ROE means company can make lots of profit with as little equity as possible.
-Every year or every quarter, company's profit will be kept on equity, inside **Retained Earnings**.
-The bigger the profit each year, it will make equity bigger and bigger as well.
-ROE can be bigger when company take advantage of **Debt** (hutang), as long as operation net income can be higher than **interest cost** (biaya bunga).
+I think **Return on Equity** is the single most important metric to look at when investing.
+A company with a high ROE makes a lot of profit with as little equity as possible.
+Every year or quarter, the profit gets kept in equity under **Retained Earnings**, so the bigger the profit, the bigger the equity grows.
+ROE can go even higher when a company makes good use of **Debt** (hutang), as long as operating net income stays higher than the **interest cost** (biaya bunga).
 
-Shareholder equity comes from Equity (modal) + Additional paid-in capital (tambahan modal disetor) - Treasury stock.
-If company do a buyback (therefore treasury stock is added), in the same time company's equity is also be taken out. Therefore it makes ROE bigger.
-So when company's equity is reduced, we need to check again.
+Shareholder equity is Equity (modal) + Additional paid-in capital (tambahan modal disetor) - Treasury stock.
+When a company does a buyback, treasury stock goes up and, at the same time, equity gets taken out. That makes ROE look bigger.
+So whenever a company's equity shrinks, I need to double-check what's behind it.

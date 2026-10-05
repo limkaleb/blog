@@ -3,7 +3,9 @@ title: 'Crypto Investing Tools'
 date: '2024-02-04'
 ---
 
-### Basic Crypto Data Platform:
+A list of the tools I use (or bookmarked) for crypto research.
+
+### Basic Crypto Data Platforms
 
 - [coingecko.com](https://coingecko.com)
 - [cryptoslate.com](https://cryptoslate.com)
@@ -13,7 +15,7 @@ date: '2024-02-04'
 
 ---
 
-### Porfolio Tracker:
+### Portfolio Trackers
 
 - [coinstats.app](https://coinstats.app)
 - [delta.app](https://delta.app)
@@ -23,27 +25,27 @@ date: '2024-02-04'
 
 ---
 
-### Crypto Quantitative Tools:
+### Crypto Quantitative Tools
 
-Untuk melihat data **on-chain**.
+For digging into **on-chain** data.
 
 - [theblock.co](https://theblock.co)
 - [dune.com](https://dune.com)
-- [nansen.ai](nansen.ai)
+- [nansen.ai](https://nansen.ai)
 - [glassnode.com](https://glassnode.com)
 
 ---
 
-### Blockchain Fundamental Tools:
+### Blockchain Fundamental Tools
 
 - [defipulse.com](https://defipulse.com)
 - [dappradar.com](https://dappradar.com)
-- [maker.defiexplore.com](https://https://maker.defiexplore.com/)
+- [maker.defiexplore.com](https://maker.defiexplore.com/)
 - [cryptocompare.com](https://cryptocompare.com)
 
 ---
 
-### Crypto Wallet
+### Crypto Wallets
 
 - [metamask.io](https://metamask.io)
 - [trustwallet.com](https://trustwallet.com)

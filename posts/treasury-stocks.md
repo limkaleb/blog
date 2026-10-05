@@ -3,22 +3,22 @@ title: 'Good Company Should Have Treasury Stocks'
 date: '2023-08-02'
 ---
 
-After company collect many equity for years or period of time, company then can do 4 actions:
-- Pay dividend to the share holders
-- Pay off their debts
-- Expansions
-- Buy back their shares
+After a company has built up equity over the years, it can do 4 things with it:
+- Pay dividends to shareholders
+- Pay off debts
+- Expand
+- Buy back its own shares
 ---
-Dividend payment usually make the share holders happy so they can increase total yield, excluding their capital gain.
-If company paid off their debts, company can be healthier therefore decrease interest cost, and increase profits and EPS.
-Expansions can increase company's profits,EPS, and therefore company share price.
+Dividends usually keep shareholders happy, since they add to the total yield on top of any capital gain.
+Paying off debt makes the company healthier. Interest cost goes down, and profit and EPS go up.
+Expansion can grow profit and EPS, and with them the share price.
 
 ![treasury-aces](../aces-treasury.jpg)
 
-What about buy back ? When company buys back their shares and the shares bought by company will go to **Treasury Stocks** inside **Equity**.
-Total shares will be decrease, therefore the "cake" is bigger for each company share holders.
-We can look for Visa and Master Cards company as an example of successful buy back. Basically after they buy back their company shares, company profit is still increasing and increasing.
+What about buybacks? When a company buys back its shares, those shares go into **Treasury Stocks** inside **Equity**.
+The total number of shares drops, so the "cake" gets bigger for each remaining shareholder.
+Visa and Mastercard are good examples of successful buybacks. After buying back their shares, their profit kept growing year after year.
 
-And the result is bigger cake shared with fewer share holders. This is the best case that can happen and we should look for company like this.
+The result is a bigger cake shared among fewer shares. That's the best case scenario, and it's the kind of company I want to look for.
 
-One of indicator is the increase of company net profit is bigger than revenues.
+One indicator I use: net profit growing faster than revenue.
